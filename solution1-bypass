@@ -1,0 +1,11 @@
+1. run binary till compare and set value of eax = 0x1353
+
+
+2. for the next pass “set $al=0xee”  just before the compare
+
+3. set $eax=0x365b
+4. set $eax=0x1650
+5. set $al=0xd2
+6. set $eax=0x2b93
+7. set $al=0xfa
+8. set $al=0x79
